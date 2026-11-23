@@ -59,7 +59,7 @@ I enjoy working on practical projects, exploring datasets, and applying analytic
 ## 🌐 Connect With Me
 
 - **GitHub:** https://github.com/romana-javed-ds
-
+- **Portfolio:** https://romana-javed-ds.github.io/
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
