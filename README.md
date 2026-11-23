@@ -11,7 +11,7 @@ I enjoy working on practical projects, exploring datasets, and applying analytic
 ## 🎓 Education
 
 - **MS Data Science** — FAST NUCES, Islamabad
-- **MCS** — Completed 2024
+- **MCS** — Completed 2023
 
 ## 💻 Technical Skills
 
