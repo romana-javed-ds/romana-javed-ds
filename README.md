@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Romana Javed
 
-### MS Data Science Student | Aspiring Data Scientist
+### MS Data Science | Aspiring Data Scientist
 
 Welcome to my GitHub profile!
 
